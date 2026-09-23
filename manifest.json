@@ -1,0 +1,9 @@
+{
+  "id": "vixsrc",
+  "name": "VixSrc",
+  "version": "1.0.0",
+  "description": "Movie and TV streams from vixsrc.to (TMDB/IMDb based)",
+  "filename": "providers/vixsrc.js",
+  "supportedTypes": ["movie", "tv"],
+  "enabled": true
+}
